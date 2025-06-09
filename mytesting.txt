@@ -1,4 +1,3 @@
 //************************************************
-//frist tym push the code out local repositry to remote repositry [git cmd- git push origin master ->
-// then it will ask sign-in or token; for token-> create a token in github settings -> 
-// Developer setting -> token classic -> create token->"token:"
+//frist comt
+
