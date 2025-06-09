@@ -1,0 +1,34 @@
+15:16:08.064 [main] INFO  testClass.TC001_AccountRegpage - ** Starting TC001_AccountRegpage ***
+15:19:43.782 [main] INFO  testClass.TC001_AccountRegpage - ** Starting TC001_AccountRegpage ***
+15:19:57.260 [main] ERROR testClass.TC001_AccountRegpage - Test Failed
+15:42:21.072 [main] INFO  testClass.TC001_AccountRegpage - ** Starting TC001_AccountRegpage ***
+15:42:23.988 [main] ERROR testClass.TC001_AccountRegpage - Test Failed
+15:43:26.581 [main] INFO  testClass.TC001_AccountRegpage - ** Starting TC001_AccountRegpage ***
+15:43:28.702 [main] INFO  testClass.TC001_AccountRegpage -  *** finished TC001_AccountRegpage 
+15:46:30.321 [main] INFO  testClass.TC001_AccountRegpage - ** Starting TC001_AccountRegpage ***
+15:46:32.830 [main] INFO  testClass.TC001_AccountRegpage -  *** finished TC001_AccountRegpage 
+15:49:59.931 [main] INFO  testClass.TC001_AccountRegpage - ** Starting TC001_AccountRegpage ***
+15:50:05.664 [main] INFO  testClass.TC001_AccountRegpage -  *** finished TC001_AccountRegpage 
+16:02:40.984 [main] INFO  testClass.TC001_AccountRegpage - ** Starting TC001_AccountRegpage ***
+16:02:43.363 [main] INFO  testClass.TC001_AccountRegpage -  *** finished TC001_AccountRegpage 
+16:04:09.203 [main] INFO  testClass.TC001_AccountRegpage - ** Starting TC001_AccountRegpage ***
+16:04:11.386 [main] INFO  testClass.TC001_AccountRegpage -  *** finished TC001_AccountRegpage 
+16:05:31.595 [main] INFO  testClass.TC001_AccountRegpage - ** Starting TC001_AccountRegpage ***
+16:05:34.660 [main] INFO  testClass.TC001_AccountRegpage -  *** finished TC001_AccountRegpage 
+16:07:15.748 [main] INFO  testClass.TC001_AccountRegpage - ** Starting TC001_AccountRegpage ***
+16:07:18.455 [main] ERROR testClass.TC001_AccountRegpage - Test Failed
+16:07:18.457 [main] INFO  testClass.TC001_AccountRegpage -  *** finished TC001_AccountRegpage 
+16:08:48.318 [main] INFO  testClass.TC001_AccountRegpage - ** Starting TC001_AccountRegpage ***
+16:08:50.350 [main] ERROR testClass.TC001_AccountRegpage - Test Failed
+16:08:50.350 [main] DEBUG testClass.TC001_AccountRegpage - DEBUG LOGS....
+16:08:50.352 [main] INFO  testClass.TC001_AccountRegpage -  *** finished TC001_AccountRegpage 
+16:09:59.735 [main] INFO  testClass.TC001_AccountRegpage - ** Starting TC001_AccountRegpage ***
+16:10:05.935 [main] ERROR testClass.TC001_AccountRegpage - Test Failed
+16:10:05.935 [main] DEBUG testClass.TC001_AccountRegpage - DEBUG LOGS....
+16:10:05.937 [main] INFO  testClass.TC001_AccountRegpage -  *** finished TC001_AccountRegpage 
+16:11:03.782 [main] INFO  testClass.TC001_AccountRegpage - ** Starting TC001_AccountRegpage ***
+16:11:05.587 [main] ERROR testClass.TC001_AccountRegpage - Test Failed
+16:11:05.587 [main] DEBUG testClass.TC001_AccountRegpage - DEBUG LOGS....
+13:04:00.741 [main] INFO  testClass.TC002_LoginTest - ***** Starting the testcase ******
+13:04:01.534 [main] INFO  testClass.TC002_LoginTest - Validating the values
+13:04:02.539 [main] INFO  testClass.TC002_LoginTest - ***** finish the testcase ******
